@@ -1,0 +1,6 @@
+numpy>=1.24
+pandas>=2.0
+opencv-python>=4.8
+Pillow>=10.0
+scikit-image>=0.22
+openpyxl>=3.1
